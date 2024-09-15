@@ -2,7 +2,7 @@
 idapython script to decrypt strings in StealC.
 Reference samples:
 19ea28b761e263b381b52bf0674aa36808e79d2e8a98617852a1635afeccdbc2
- 72d64cc003975d22b6f5d1d1e7cb7f70e4d698e2b74a1f0f511b8ba60417fe1f 
+72d64cc003975d22b6f5d1d1e7cb7f70e4d698e2b74a1f0f511b8ba60417fe1f 
 """
 import ida_xref
 import ida_bytes
